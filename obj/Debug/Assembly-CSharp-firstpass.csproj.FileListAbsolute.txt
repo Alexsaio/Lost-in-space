@@ -1,0 +1,570 @@
+D:\Lost in space\Lost in space\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Lost in space\Lost in space\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\mscorlib.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\netstandard.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\nunit.framework.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.AppContext.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Collections.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.ComponentModel.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Console.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Core.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Data.Common.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Data.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Drawing.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Globalization.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.IO.Compression.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.IO.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.IO.Pipes.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Linq.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Net.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Net.Http.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Net.Ping.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Net.Primitives.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Net.Requests.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Net.Security.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Net.Sockets.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Numerics.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.ObjectModel.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Reflection.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Resources.Reader.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Resources.Writer.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Security.Claims.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Security.Principal.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Security.SecureString.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Text.Encoding.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Threading.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Threading.Thread.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Threading.Timer.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Transactions.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.ValueTuple.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Web.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Windows.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Xml.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Xml.XPath.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.Locator.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEditor.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.Cecil.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.DataContract.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEditor.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\Lost in space\Lost in space\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\nunit.framework.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Lost in space\Lost in space\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+D:\Lost in space\Lost in space\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+D:\Lost in space\Lost in space\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
+D:\Lost in space\Lost in space\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Lost in space\Lost in space\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Lost in space\Lost in space\Temp\bin\Debug\Boo.Lang.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Lost in space\Lost in space\Temp\bin\Debug\UnityEditor.UI.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\mscorlib.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\netstandard.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\nunit.framework.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.AppContext.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Collections.Concurrent.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Collections.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Collections.NonGeneric.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Collections.Specialized.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.ComponentModel.Composition.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.ComponentModel.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Console.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Core.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Data.Common.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Data.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Diagnostics.Debug.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Diagnostics.Process.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Diagnostics.Tools.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Drawing.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Drawing.Primitives.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Dynamic.Runtime.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Globalization.Calendars.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Globalization.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Globalization.Extensions.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.IO.Compression.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.IO.Compression.FileSystem.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.IO.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.IO.FileSystem.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.IO.Pipes.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Linq.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Linq.Expressions.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Linq.Parallel.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Linq.Queryable.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Net.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Net.Http.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Net.NameResolution.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Net.NetworkInformation.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Net.Ping.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Net.Primitives.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Net.Requests.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Net.Security.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Net.Sockets.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Net.WebSockets.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Numerics.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Numerics.Vectors.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.ObjectModel.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Reflection.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Reflection.Extensions.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Reflection.Primitives.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Resources.Reader.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Resources.ResourceManager.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Resources.Writer.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.Extensions.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.Handles.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.InteropServices.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.Numerics.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Security.Claims.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Security.Principal.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Security.SecureString.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.ServiceModel.Web.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Text.Encoding.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Text.RegularExpressions.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Threading.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Threading.Overlapped.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Threading.Tasks.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Threading.Thread.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Threading.ThreadPool.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Threading.Timer.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Transactions.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.ValueTuple.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Web.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Windows.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Xml.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Xml.Linq.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Xml.Serialization.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Xml.XDocument.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Xml.XmlDocument.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Xml.XPath.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.Analytics.DataPrivacy.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.Analytics.Editor.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.Analytics.StandardEvents.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.Analytics.Tracker.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.CollabProxy.Editor.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.Locator.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEditor.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.VFXModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.Cecil.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.DataContract.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.IvyParser.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEditor.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.TextMeshPro.Editor.pdb
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.PackageManagerUI.Editor.pdb
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.CollabProxy.Editor.pdb
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.TextMeshPro.pdb
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Unity.Analytics.DataPrivacy.pdb
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TextCoreModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityTestProtocolModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.VFXModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\nunit.framework.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Lost in space\Lost in space - копия\obj\Debug\Assembly-CSharp-firstpass.csprojAssemblyReference.cache
+D:\Lost in space\Lost in space - копия\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+D:\Lost in space\Lost in space - копия\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
+D:\Lost in space\Lost in space - копия\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\Lost in space\Lost in space - копия\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\Boo.Lang.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEditor.UI.dll
+D:\Lost in space\Lost in space - копия\Temp\bin\Debug\UnityEditor.UI.xml

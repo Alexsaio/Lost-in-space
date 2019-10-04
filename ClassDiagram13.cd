@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Anima2D.AnimationBaker" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\AnimationBaker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.BbwPlugin" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAACAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\BbwPlugin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.BindInfo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAgEACIAAgAAAEQICAAAIAAAAAABA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\BindInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Anima2D.BlendShape" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\BlendShape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.BlendShapeEditor" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAABAAABBkAAFAAAAAEAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\BlendShapeEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.BlendShapeFrame" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAEAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\BlendShapeFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.BlendShapeFrameEditor" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABQABAAEAAEQAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\BlendShapeFrameEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.Bone2DEditor" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAIAAAQAQAAEAACAAAAAAAAAAIACAAAAAACAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\Bone2DEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.BoneUtils" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAIAACAAAUABAAAAAAkAAgSAAAAUIAAAgAgAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\BoneUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.ColorRing" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\ColorRing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.ContextMenu" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAEABAAAAABQAIAAAAAUAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\ContextMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.CurveUtility" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAACBEAAEAAAAAAQAAAAAASACwAAQhCAAAABICA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\CurveUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.Edge" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAwAAAAAAAIAACQMAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\Edge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.EditorEventHandler" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABABACAAEAAAAAEAEAAQQKABCAAICAACAIEAAAAQ=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\EditorEventHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.EditorExtra" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAACAABABAAAAAIAAAAEAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\EditorExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.EditorGUIExtra" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAgCAAEAAAAAABAAAAQAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\EditorGUIExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.EditorCallbacks" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAgAAAAAAAAAAAQAAAABAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\EditorUpdater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.EditorUpdater" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkUAAAAAAAQARABAAEAEAIIgAAAAAIACAAQEAAAEABA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\EditorUpdater.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.Gizmos" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAEQAAAEAEAAIAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\Gizmos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.HandlesExtra" Collapsed="true">
+    <Position X="23.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABAFACAGCIACAAAIAKABBQIEYBAAhGCAQCAIAEA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\HandlesExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.Hole" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAAAAAAABA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\Hole.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Anima2D.Ik2DEditor" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAQgAAAAACAAAAACABAAAAAAAAAAACgA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\Ik2DEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.IkCCD2DEditor" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\IkCCD2DEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.IkGroupEditor" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAACAAAAAAAAAAAAAAAAAAAGAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\IkGroupEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.IkLimb2DEditor" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\IkLimb2DEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.IkUtils" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAABAAAAAAAAAAAIQAAAIAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\IkUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.InspectorEditor" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAACABAEAAAEAAEAAAAAAAQAgEAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\InspectorEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.MaskCreator" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\MaskCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.MeshToolEditor" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAABgAAAAEAAEAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\MeshToolEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.Node" Collapsed="true">
+    <Position X="21.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.PoseManagerEditor" Collapsed="true">
+    <Position X="23.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAIAAAAAAAAACAACAAAAAAAAAAAgAAAAGAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\PoseManagerEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.PoseUtils" Collapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\PoseUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.RectHandles" Collapsed="true">
+    <Position X="16.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IIACAAAABAQACQAYAAAIAIIBmAIAIAAgAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\RectHandles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.ScriptableObjectUtility" Collapsed="true">
+    <Position X="18.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\ScriptableObjectUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.SelectionRectTool" Collapsed="true">
+    <Position X="20" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAIgAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\SelectionRectTool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.SerializedCache" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAEAAIAAAAEAAECAAAABAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\SerializedCache.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Anima2D.SliceEditor" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgBAAAAAEAAEAAAAAAAAAAACAAYAAQAAAQ=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\SliceEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.SpriteMeshAnimationEditor" Collapsed="true">
+    <Position X="21.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAEACAAABAAAIAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\SpriteMeshAnimationEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.SpriteMeshCache" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gI7SUAFQUtgFkAugjOVHpgClErcCIFEoYnBBXALLqiA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\SpriteMeshCache.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Anima2D.SpriteMeshData" Collapsed="true">
+    <Position X="23.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwBAARIgAAABAAAQQAAAgEAAQAAAAAAAAAAYAAQA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\SpriteMeshData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.SpriteMeshEditor" Collapsed="true">
+    <Position X="14.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAEIAABBAACAAAAAAAUAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\SpriteMeshEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.SpriteMeshEditorWindow" Collapsed="true">
+    <Position X="5.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DA4BQIxKSAIh9Ak2IwRQBICQ4AIQSAmohSCKNBDiCQE=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\SpriteMeshEditorWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.SpriteMeshInstanceEditor" Collapsed="true">
+    <Position X="16.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAACAAAAARAhQEgAAACAAAQAAEAAgIAAAIAAAACYg=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\SpriteMeshInstanceEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.SpriteMeshPostprocessor" Collapsed="true">
+    <Position X="18.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEABAgDAEAAAAQAAAAAAAAAAAAAAAAAAkAAAAOAgAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\SpriteMeshPostprocessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.SpriteMeshUtils" Collapsed="true">
+    <Position X="20" Y="5.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Anima2D.SpriteMeshUtils.WeightedTriangle" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Anima2D\Scripts\Editor\SpriteMeshUtils.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIQCoEBAAABBBagAABCAEABAAoEAJBAAQAAAQABgAYA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\SpriteMeshUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.TextureEditorWindow" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABChgQAAAQQCIYGiASgQAAAGFQAEBBEAhEDBgAAoIAQ=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\TextureEditorWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.ToolsExtra" Collapsed="true">
+    <Position X="21.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\ToolsExtra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.WeightEditor" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAABAEAgEAAAACAAAAEAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\WeightEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.WindowEditorTool" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAAQABAAJAAAAAEAEAgAAQAAEAARADAQAAABAAAQ=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\WindowEditorTool.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Anima2D.BoneWeight" Collapsed="true">
+    <Position X="14.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBACAgAIAAEEPAgAAAAAAAAAEAAAHgAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\BoneWeight.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Anima2D.IndexedEdge" Collapsed="true">
+    <Position X="16.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Editor\IndexedEdge.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cat_GG
+  - Aliens
+  - Blocks
+  - Coins
+  - Elements
+  - CheckBox
+  - Element2
+  - Element1
+  - Bush
+  - Element3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ladder
+  - NotLadder
+  - Cat
+  - Head
+  - Alien
+  - alien2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Cat
+    uniqueID: 1075826205
+    locked: 0
+  - name: Alien1
+    uniqueID: 3948837485
+    locked: 0

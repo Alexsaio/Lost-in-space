@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: Alien1_bind
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: Alien1_Bones/Hips
+    localPosition: {x: 0.07983088, y: -0.37223247, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.3608621, w: 0.9326192}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Alien1_Bones/Hips/Body
+    localPosition: {x: 0.20190717, y: 0.00000010058284, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.34047458, w: 0.94025373}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Alien1_Bones/Hips/Body/BodyRepeat
+    localPosition: {x: 0.36217993, y: 0.000000007450581, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.053064328, w: 0.9985911}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Alien1_Bones/Hips/Body/BodyRepeat/REye
+    localPosition: {x: 0.32194334, y: -9.6861186e-11, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.16203916, w: 0.98678434}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Alien1_Bones/Hips/Body/BodyRepeat/LEye
+    localPosition: {x: 0.43969184, y: 0.19315962, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.14514904, w: 0.9894098}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Alien1_Bones/Hips/Body/RHand
+    localPosition: {x: 0.40102506, y: -0.07390738, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9127917, w: 0.40842542}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Alien1_Bones/Hips/Body/LHand
+    localPosition: {x: 0.42459327, y: 0.2503112, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.8595371, w: 0.51107347}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Alien1_Bones/Hips/RHip
+    localPosition: {x: 0.2158071, y: -0.14673938, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.99556476, w: -0.09407923}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Alien1_Bones/Hips/RHip/RFoot
+    localPosition: {x: 0.28089792, y: 0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.5441979, w: 0.8389569}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Alien1_Bones/Hips/LHip
+    localPosition: {x: -0.042331513, y: 0.10796174, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.99587804, w: -0.090702586}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Alien1_Bones/Hips/LHip/LFoot
+    localPosition: {x: 0.2907163, y: 0.00000008195639, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.5294099, w: 0.8483662}
+    localScale: {x: 1, y: 1, z: 1}

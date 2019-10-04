@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="alien1" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\alien1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterMotion" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Examples\Scripts\CharacterMotion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Follow" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAIAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Examples\Scripts\Follow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkinnedMeshCombiner" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABgACAAACAAAAAAAAIAAAAAAAAAAAAABAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Anima2D\Examples\Scripts\SkinnedMeshCombiner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpriteCycle" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAACAAAAEAKAAAAAAAAAAAAAAAAAAAAkA=</HashCode>
+      <FileName>Assets\Anima2D\Examples\Scripts\SpriteCycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpriteCycleParallax" Collapsed="true">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAiAAQAAAIAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Anima2D\Examples\Scripts\SpriteCycleParallax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CanvasDontDestroy" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\CanvasDontDestroy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBox">
+    <Position X="15.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\CheckBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElementManager" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAACAAAAAAAAAAgAAAAABAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ElementManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElementScript" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAABAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\ElementScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ForAudio">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\ForAudio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="jumpOnBatut" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\jumpOnBatut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ladder" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACBAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Ladder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainCanvas" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainCanvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="10.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patrol">
+    <Position X="16.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAQAAAAEAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patrol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PauseMenu" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAAAAAAAAAAAAIAAAAAAgAAAAAAAAAgQAAA=</HashCode>
+      <FileName>Assets\PauseMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerExiit" Collapsed="true">
+    <Position X="19" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerExiit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScriptBFL" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\ScriptBFL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coin" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Coin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreManager">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAIAAAAAABAAAAIAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ScoreManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreManager2">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAIAAAAAABAAAAIAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ScoreManager2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreManager3" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAIAAAAAABAAAAIAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ScoreManager3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManagerCat" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\SoundManagerCat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManagerCoin" Collapsed="true">
+    <Position X="8.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAQIEAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\SoundManagerCoin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarScript" Collapsed="true">
+    <Position X="15" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\StarScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerInput" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAgAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Tutorial\Scripts\PlayerInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMovement" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAqgAAAAAKAIAAAEAAEAhAAAQACCACAEAAEA=</HashCode>
+      <FileName>Assets\Tutorial\Scripts\PlayerMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityChan.SpringBone" Collapsed="true">
+    <Position X="15" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACCAAAKCAAAAAAAAAAxBAAACBQACAAEABEEAAAAEA=</HashCode>
+      <FileName>Assets\Anima2D\Examples\Scripts\SpringBone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityChan.SpringCollider" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Examples\Scripts\SpringCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityChan.SpringManager" Collapsed="true">
+    <Position X="15.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAACAAAAAQAAAAKAAAAAAAAAAAAADEAAAAAFA=</HashCode>
+      <FileName>Assets\Anima2D\Examples\Scripts\SpringManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.Bone2D" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAVAEAAAEAAAIAAAECgIBAAAAoQCACSAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Bone2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.Control" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAQYAAAAAAAAACAAAAAAAAIAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.EditorUpdaterProxy" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIBAAAAAAAAAIQAAABAAAAEA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\EditorUpdaterProxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.Ik2D" Collapsed="true">
+    <Position X="1.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASEQAQgADagAAABMAUAIAAIAAAACAEgIAQAAAGAgAE=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Ik2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.IkCCD2D">
+    <Position X="0.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAgIAAAAAAAAABAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\IkCCD2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.IkGroup" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAIAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\IkGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.IkLimb2D">
+    <Position X="2.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAKgAAAAAQEAAAAAAAAABAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\IkLimb2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.IkSolver2D">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Anima2D.IkSolver2D.SolverPose" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Anima2D\Scripts\IkSolver2D.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAEAAIAhAACSABABQAAgAAAAAAAAAgAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\IkSolver2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.IkSolver2DCCD">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAABAgIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\IkSolver2DCCD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.IkSolver2DLimb">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\IkSolver2DLimb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.MathUtils">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEBUDDKAAAIACgAAAIAAAAAAAUAIAAAAEAAAgA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\MathUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.Pose">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Anima2D.Pose.PoseEntry" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Anima2D\Scripts\Pose.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\Pose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.PoseManager" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\PoseManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.SpriteMesh" Collapsed="true">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAABAgABAAAAAAAAAAQAAAABA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\SpriteMesh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.SpriteMeshAnimation">
+    <Position X="10.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAEIMAAAAAAAAAABAAAAQAAAAA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\SpriteMeshAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Anima2D.с" Collapsed="true">
+    <Position X="12.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KIEnEgAAAAAIABggAAAEIBuIAAAFAACABAAQWApAAsA=</HashCode>
+      <FileName>Assets\Anima2D\Scripts\SpriteMeshInstance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
